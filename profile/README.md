@@ -1,4 +1,4 @@
-# ![logo](https://www.iws.uni-stuttgart.de/ls3/img/logo-white.png =90x80) About Us 
+# About Us 
 
 
 
