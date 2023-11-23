@@ -1,6 +1,4 @@
-# About Us 
-
-
+# Department of Stochastic Simulation and Safety Research for Hydrosystems 
 
 Welcome to the github page of the Department of Stochastic Simulation and Safety Research for Hydrosystems ([LS3](https://www.iws.uni-stuttgart.de/en/ls3/)). We are part of the Institute for Modelling Hydraulic and Environmental Systems (IWS) of the Faculty for Civil and Environmental Engineering and the Cluster of Excellence SimTech of the University of Stuttgart.  Furthermore, we participate in the Collaborative Research Centers Interface-Driven Multi-Field Processes in Porous Media - Flow, Transport and Deformation and CAMPOS - Catchments as Reactors: Metabolism of Pollutants on the Landscape Scale.
 
