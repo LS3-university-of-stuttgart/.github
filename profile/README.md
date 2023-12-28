@@ -25,7 +25,7 @@ Our group developed various software tools and resources to aid in our research 
 
 #### Bayesian methods
 - [bali](https://github.com/LS3-university-of-stuttgart/bali): A python package for Bayesian likelihood estimation | See [10](https://doi.org/10.1137/15M1047659)
-- [bayesvalidrox](https://pypi.org/project/bayesvalidrox/): An open-source, object-oriented Python package for surrogate-assisted Bayesain Validation of computational models. | See [11](https://doi.org/10.48550/arXiv.2106.13639)
+- [bayesvalidrox](https://pypi.org/project/bayesvalidrox/): An open-source, object-oriented Python package for surrogate-assisted Bayesian Validation of computational models. | See [11](https://doi.org/10.48550/arXiv.2106.13639)
 
 #### Kriging
 
